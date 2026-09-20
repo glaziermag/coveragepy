@@ -4,3 +4,5 @@
 
 def test_probe_deliberate_failure() -> None:
     assert 1 == 2, "probe: deliberate failure"
+
+# probe retrigger
