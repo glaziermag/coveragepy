@@ -146,3 +146,4 @@ Licensed under the `Apache 2.0 License`_.  For details, see `NOTICE.txt`_.
     :alt: Sponsor me on GitHub
 
 .. probe: docs-only change, no test-relevant files touched
+.. probe retrigger
