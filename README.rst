@@ -144,3 +144,5 @@ Licensed under the `Apache 2.0 License`_.  For details, see `NOTICE.txt`_.
 .. |sponsor| image:: https://img.shields.io/badge/%E2%9D%A4-Sponsor%20me-brightgreen?style=flat&logo=GitHub
     :target: https://github.com/sponsors/nedbat
     :alt: Sponsor me on GitHub
+
+.. probe: docs-only change, no test-relevant files touched
